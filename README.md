@@ -3,7 +3,10 @@
 This project is an exercise for the open-source online course [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)
 This exercise in particular is focused only on using basic HTML to create a page hosting three recipies. I had chosen recipies themed after vikings in honor of the name of the course, since [Odin](https://en.wikipedia.org/wiki/Odin) is a norse god.
 
-The recipies I had chosen were taken from this web page: [10 Delicious Authentic Viking Recipes - Viking Warrior Shirts](https://www.vikingwarriorshirts.com/blogs/news/10-delicious-authentic-viking-recipes). 
+## Recipies Credit
+
+The recipies I had chosen were taken from the following web page: 
+- [10 Delicious Authentic Viking Recipes - Viking Warrior Shirts](https://www.vikingwarriorshirts.com/blogs/news/10-delicious-authentic-viking-recipes). 
 
 # Requirements 
 
