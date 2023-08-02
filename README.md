@@ -17,3 +17,9 @@ The recipies I had chosen were taken from the following web page:
 - Regarding atomic commits, I think I did okay for that. I made my commits often, used imperative mood and kept them small. I bet I'll get better at it with even more practice.
 - I can't wait to go back and polish this project with CSS in the future. I like that I was able to apply the concepts taught. I also noticed I got better at creating the HTML boilerplate from memory as I practiced too, so I am glad I tried it by hand.
 - One thing I noticed was that the source I used for the recipes, despite having a fancy javascript front-end framework, still had the lists in the same HTML tags I am familar with here. I am excitied to learn how that works as I progress through the course. 
+
+
+2nd August 2023 (CSS Segment):
+- I should probably change the font but I do want to move onto the rest of the lessons
+- It was fun centering the images. I used a div with a class for it.
+- It took a bit long to finish as I was focused on other personal projects unrelated to The Odin Project. Happy to be back though
